@@ -51,3 +51,10 @@
 footer{
     text-transform: uppercase;
 }
+
+@media screen and (max-width: 768px) {
+    footer{
+        font-size: 12px;
+    }
+    
+}
