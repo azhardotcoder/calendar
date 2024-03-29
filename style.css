@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
 }
 
 .hero{
@@ -46,4 +47,7 @@
 #date{
     font-size: 100px;
     line-height: 90px;
+}
+footer{
+    text-transform: uppercase;
 }
